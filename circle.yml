@@ -1,10 +1,9 @@
 machine: 
   java:
-    version: openjdk7
+    version: openjdk8
 
-
-general:
-  build_dir: java
+#general:
+  #build_dir: java
 
 test:
   override:
