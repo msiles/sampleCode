@@ -11,6 +11,7 @@
 
         <classes>
             <class name="HomeTests.HomePageTest"/>
+            <class name="HomeTests.TripAdvisorHomePageTest"/>
         </classes>
     </test>
 </suite>
